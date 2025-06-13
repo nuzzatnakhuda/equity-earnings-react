@@ -1,4 +1,4 @@
-![share](https://github.com/user-attachments/assets/1818a2e5-784f-4b69-bb2f-508f9a4ab418)Equity Earnings Tracker
+Equity Earnings Tracker
 
 📝 Description
 
