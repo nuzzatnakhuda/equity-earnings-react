@@ -25,25 +25,48 @@ Backend: Node.js + Express
 Database:MySql
 
 Screenshots
+
+Add Purchase
+
 ![add purchase](https://github.com/user-attachments/assets/ce24ab24-335e-4895-b234-4d0fe884269b)
+
+Shares
 
 ![share](https://github.com/user-attachments/assets/ca23ea2f-cd60-4759-a396-f3dea5c6ebed)
 
+Add Sales
+
 ![add sales](https://github.com/user-attachments/assets/bee93ca9-510f-4412-8965-35a752e1fc46)
+
+Brokerage
 
 ![brokerage](https://github.com/user-attachments/assets/7c406396-06d1-4151-9b90-7f111b7b881a)
 
+Edit Sales
+
 ![edit sales](https://github.com/user-attachments/assets/9da8ab84-736a-42b6-918e-342b4ff88b72)
+
+Edit Share
 
 ![edit share](https://github.com/user-attachments/assets/6415ed0c-0bb2-48f6-a985-af7ad2b328eb)
 
+Login Page
+
 ![login page](https://github.com/user-attachments/assets/b49d4f9d-d278-458b-a8e7-a20a54856ff1)
+
+Purchase
 
 ![purchase](https://github.com/user-attachments/assets/0aa6a536-37ad-4bcb-afba-38c1d6bb102b)
 
+Register
+
 ![register](https://github.com/user-attachments/assets/d799fd03-a004-4572-81ed-624837e111ce)
 
+Sales
+
 ![sales](https://github.com/user-attachments/assets/22494f02-dade-4853-8814-b70999aabce6)
+
+Add Share
 
 ![add Share](https://github.com/user-attachments/assets/80d9f618-cb3a-4af6-ad39-9361e1203fdf)
 
